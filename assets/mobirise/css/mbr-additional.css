@@ -2667,3 +2667,27 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-ra9Wmo9DeX {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-ra9Wmo9DeX .image-block {
+  margin: auto;
+}
+.cid-ra9Wmo9DeX .mbr-figure {
+  margin: 0 auto;
+}
+.cid-ra9Wmo9DeX figcaption {
+  position: relative;
+}
+.cid-ra9Wmo9DeX figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ra9Wmo9DeX .image-block {
+    width: 100% !important;
+  }
+}
