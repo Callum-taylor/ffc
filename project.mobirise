@@ -34,7 +34,11 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 13,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "Falkirk Festival Chorus use cookies to give you the best experience. ",
+    "gdpr": ""
   },
   "pages": {
     "joiningus.html": {
